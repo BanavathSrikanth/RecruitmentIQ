@@ -11,4 +11,9 @@
     <ProjectReference Include="..\RecruitmentIQ.Candidate.Contracts\RecruitmentIQ.Candidate.Contracts.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="12.1.1" />
+    <PackageReference Include="MediatR" Version="14.2.0" />
+  </ItemGroup>
+
 </Project>

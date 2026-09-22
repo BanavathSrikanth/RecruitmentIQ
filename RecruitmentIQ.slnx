@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/APIs/" />
+  <Folder Name="/src/APIs/Candidate/">
+    <Project Path="src/APIs/Candidate/RecruitmentIQ.Candidate.Api/RecruitmentIQ.Candidate.Api.csproj" />
+    <Project Path="src/APIs/Candidate/RecruitmentIQ.Candidate.Application/RecruitmentIQ.Candidate.Application.csproj" />
+    <Project Path="src/APIs/Candidate/RecruitmentIQ.Candidate.Contracts/RecruitmentIQ.Candidate.Contracts.csproj" />
+    <Project Path="src/APIs/Candidate/RecruitmentIQ.Candidate.Domain/RecruitmentIQ.Candidate.Domain.csproj" />
+    <Project Path="src/APIs/Candidate/RecruitmentIQ.Candidate.Infrastructure/RecruitmentIQ.Candidate.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/Unit/">
+    <Project Path="tests/Unit/RecruitmentIQ.Candidate.UnitTests/RecruitmentIQ.Candidate.UnitTests.csproj" />
+  </Folder>
+</Solution>

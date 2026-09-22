@@ -1,0 +1,12 @@
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\bin\Debug\net8.0\RecruitmentIQ.Candidate.Domain.deps.json
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\bin\Debug\net8.0\RecruitmentIQ.Candidate.Domain.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\bin\Debug\net8.0\RecruitmentIQ.Candidate.Domain.pdb
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\obj\Debug\net8.0\RecruitmentIQ.Candidate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\obj\Debug\net8.0\RecruitmentIQ.Candidate.Domain.AssemblyInfoInputs.cache
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\obj\Debug\net8.0\RecruitmentIQ.Candidate.Domain.AssemblyInfo.cs
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\obj\Debug\net8.0\RecruitmentIQ.Candidate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\obj\Debug\net8.0\RecruitmentIQ.Candidate.Domain.sourcelink.json
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\obj\Debug\net8.0\RecruitmentIQ.Candidate.Domain.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\obj\Debug\net8.0\refint\RecruitmentIQ.Candidate.Domain.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\obj\Debug\net8.0\RecruitmentIQ.Candidate.Domain.pdb
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Domain\obj\Debug\net8.0\ref\RecruitmentIQ.Candidate.Domain.dll
