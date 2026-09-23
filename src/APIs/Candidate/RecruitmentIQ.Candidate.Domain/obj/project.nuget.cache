@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JJ5WfbS+qC8=",
+  "dgSpecHash": "qbePhW529UY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
