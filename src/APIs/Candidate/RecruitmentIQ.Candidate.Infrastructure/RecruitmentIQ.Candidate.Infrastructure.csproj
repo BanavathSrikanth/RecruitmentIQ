@@ -11,4 +11,9 @@
     <ProjectReference Include="..\RecruitmentIQ.Candidate.Domain\RecruitmentIQ.Candidate.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.20" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.8" />
+  </ItemGroup>
+
 </Project>

@@ -50,3 +50,12 @@ C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ
 C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\obj\Debug\net8.0\RecruitmentIQ.Candidate.Api.pdb
 C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\obj\Debug\net8.0\RecruitmentIQ.Candidate.Api.genruntimeconfig.cache
 C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\obj\Debug\net8.0\ref\RecruitmentIQ.Candidate.Api.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
