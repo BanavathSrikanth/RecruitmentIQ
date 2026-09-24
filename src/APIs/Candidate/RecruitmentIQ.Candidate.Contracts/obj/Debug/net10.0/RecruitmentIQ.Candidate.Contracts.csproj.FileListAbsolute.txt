@@ -10,3 +10,15 @@ C:\Users\banav\.gemini\antigravity\scratch\RecruitmentIQ\src\APIs\Candidate\Recr
 C:\Users\banav\.gemini\antigravity\scratch\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\refint\RecruitmentIQ.Candidate.Contracts.dll
 C:\Users\banav\.gemini\antigravity\scratch\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.pdb
 C:\Users\banav\.gemini\antigravity\scratch\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\ref\RecruitmentIQ.Candidate.Contracts.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\bin\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.deps.json
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\bin\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\bin\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.pdb
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.AssemblyInfoInputs.cache
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.AssemblyInfo.cs
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.sourcelink.json
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\refint\RecruitmentIQ.Candidate.Contracts.dll
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\RecruitmentIQ.Candidate.Contracts.pdb
+C:\Users\BanavathSrikanth\Desktop\RecruitmentIQ\src\APIs\Candidate\RecruitmentIQ.Candidate.Contracts\obj\Debug\net10.0\ref\RecruitmentIQ.Candidate.Contracts.dll

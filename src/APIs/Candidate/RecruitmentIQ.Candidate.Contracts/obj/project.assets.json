@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {}
   },
@@ -8,24 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\banav\\.nuget\\packages\\": {},
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj",
+      "projectUniqueName": "c:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj",
       "projectName": "RecruitmentIQ.Candidate.Contracts",
-      "projectPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj",
-      "packagesPath": "C:\\Users\\banav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\obj\\",
+      "projectPath": "c:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj",
+      "packagesPath": "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\NuGet.Config",
-        "C:\\Users\\banav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "c:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\NuGet.Config",
+        "C:\\Users\\BanavathSrikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -38,7 +38,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -53,11 +52,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -75,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

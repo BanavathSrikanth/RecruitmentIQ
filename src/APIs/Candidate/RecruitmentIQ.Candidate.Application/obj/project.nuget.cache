@@ -1,18 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "IbwkV5dpZR4=",
+  "dgSpecHash": "gMyXHi5UTQE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj",
+  "projectFilePath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\banav\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
-    "C:\\Users\\banav\\.nuget\\packages\\mediatr\\14.2.0\\mediatr.14.2.0.nupkg.sha512",
-    "C:\\Users\\banav\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\banav\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\banav\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\banav\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
-    "C:\\Users\\banav\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
-    "C:\\Users\\banav\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
-    "C:\\Users\\banav\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512"
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\mediatr\\14.2.0\\mediatr.14.2.0.nupkg.sha512",
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/Triangulum-Labs/RecruitmentIQ/_packaging/CompanyPackages/nuget/v3/index.json.",
+      "projectPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

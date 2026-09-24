@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\RecruitmentIQ.Candidate.Infrastructure.csproj": {}
+    "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\RecruitmentIQ.Candidate.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj": {
+    "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj",
+        "projectUniqueName": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj",
         "projectName": "RecruitmentIQ.Candidate.Application",
-        "projectPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj",
-        "packagesPath": "C:\\Users\\banav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\obj\\",
+        "projectPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj",
+        "packagesPath": "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\banav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\NuGet.Config",
+          "C:\\Users\\BanavathSrikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,19 +26,18 @@
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Triangulum-Labs/RecruitmentIQ/_packaging/CompanyPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj": {
-                "projectPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj"
+              "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj": {
+                "projectPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj"
               },
-              "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj": {
-                "projectPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj"
+              "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj": {
+                "projectPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj"
               }
             }
           }
@@ -52,11 +52,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "FluentValidation": {
@@ -84,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -362,20 +361,21 @@
         }
       }
     },
-    "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj": {
+    "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj",
         "projectName": "RecruitmentIQ.Candidate.Contracts",
-        "projectPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj",
-        "packagesPath": "C:\\Users\\banav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\RecruitmentIQ.Candidate.Contracts.csproj",
+        "packagesPath": "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\banav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\NuGet.Config",
+          "C:\\Users\\BanavathSrikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -383,12 +383,11 @@
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Triangulum-Labs/RecruitmentIQ/_packaging/CompanyPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -403,11 +402,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -425,7 +423,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -703,20 +701,21 @@
         }
       }
     },
-    "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj": {
+    "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj",
         "projectName": "RecruitmentIQ.Candidate.Domain",
-        "projectPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj",
-        "packagesPath": "C:\\Users\\banav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\obj\\",
+        "projectPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj",
+        "packagesPath": "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\banav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\NuGet.Config",
+          "C:\\Users\\BanavathSrikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -724,12 +723,11 @@
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Triangulum-Labs/RecruitmentIQ/_packaging/CompanyPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -744,11 +742,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -766,7 +763,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1044,20 +1041,21 @@
         }
       }
     },
-    "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\RecruitmentIQ.Candidate.Infrastructure.csproj": {
+    "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\RecruitmentIQ.Candidate.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\RecruitmentIQ.Candidate.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\RecruitmentIQ.Candidate.Infrastructure.csproj",
         "projectName": "RecruitmentIQ.Candidate.Infrastructure",
-        "projectPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\RecruitmentIQ.Candidate.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\banav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\RecruitmentIQ.Candidate.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\BanavathSrikanth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\banav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\NuGet.Config",
+          "C:\\Users\\BanavathSrikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1065,19 +1063,18 @@
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Triangulum-Labs/RecruitmentIQ/_packaging/CompanyPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj": {
-                "projectPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj"
+              "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj": {
+                "projectPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Application\\RecruitmentIQ.Candidate.Application.csproj"
               },
-              "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj": {
-                "projectPath": "C:\\Users\\banav\\.gemini\\antigravity\\scratch\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj"
+              "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj": {
+                "projectPath": "C:\\Users\\BanavathSrikanth\\Desktop\\RecruitmentIQ\\src\\APIs\\Candidate\\RecruitmentIQ.Candidate.Domain\\RecruitmentIQ.Candidate.Domain.csproj"
               }
             }
           }
@@ -1092,13 +1089,16 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "Company.Common.Authentication": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.20, )"
@@ -1124,7 +1124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

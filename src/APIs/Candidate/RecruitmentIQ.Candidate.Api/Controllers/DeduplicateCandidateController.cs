@@ -1,4 +1,6 @@
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using RecruitmentIQ.Candidate.Application.Features.DeduplicateCandidate;
 
 namespace RecruitmentIQ.Candidate.Api.Controllers;
 
@@ -6,9 +8,20 @@ namespace RecruitmentIQ.Candidate.Api.Controllers;
 [Route("api/[controller]")]
 public class DeduplicateCandidateController : ControllerBase
 {
-    [HttpPost]
-    public async Task<IActionResult> Deduplicate()
+    private readonly IMediator _mediator;
+
+    public DeduplicateCandidateController(IMediator mediator)
     {
-        return Ok();
+        _mediator = mediator;
+    }
+
+    [HttpPost]
+    public async Task<ActionResult<DeduplicateCandidateResult>> Deduplicate(
+        [FromBody] DeduplicateCandidateCommand command,
+        CancellationToken cancellationToken)
+    {
+        var result = await _mediator.Send(command, cancellationToken);
+
+        return Ok(result);
     }
 }
